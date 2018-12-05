@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:p="http://www.springframework.org/schema/p"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="helloword" class="Hello.helloword"
+    p:name="小红"  p:age="12" abstract="true">
+    </bean>
+    <bean id="helloword2" p:name="lihong " parent="helloword"></bean>
+    <bean id="helloword1" p:name="晓华" parent="helloword"></bean>
+</beans>
