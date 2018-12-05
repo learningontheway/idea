@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a7276b57-41a8-41a2-a95a-284ece783f39" name="Default Changelist" comment="" />
+    <list default="true" id="a7276b57-41a8-41a2-a95a-284ece783f39" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClientServerConnet/1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClientServerConnet/3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClientServerConnet/CSconnet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClientServerConnet/UDP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClientServerConnet/cswordup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThreadSecurity/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThreadSecurity/bankgetmoney.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/consumerProdut/cs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/ClientServerConnet/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/ClientServerConnet/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ClientServerConnet/CS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ClientServerConnet/CS.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,35 +33,41 @@
     <session id="-369811987">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.28" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.47" value="1" />
+          <entry key="project.open.time.58" value="1" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="1" />
-          <entry key="java" value="5" />
-          <entry key="jpg" value="7" />
+          <entry key="java" value="24" />
+          <entry key="jpg" value="13" />
+          <entry key="txt" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="Image" value="7" />
-          <entry key="JAVA" value="5" />
+          <entry key="Image" value="13" />
+          <entry key="JAVA" value="24" />
+          <entry key="PLAIN_TEXT" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="948" />
-          <entry key="txt" value="15" />
+          <entry key="java" value="2804" />
+          <entry key="txt" value="88" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="948" />
-          <entry key="PLAIN_TEXT" value="15" />
+          <entry key="JAVA" value="2804" />
+          <entry key="PLAIN_TEXT" value="88" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.spring.boot.mvc.usages" />
@@ -54,12 +77,36 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ClientServerConnet/CS.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Runnable.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+            <state relative-caret-position="608">
+              <caret line="55" column="26" selection-start-line="55" selection-start-column="26" selection-end-line="55" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/consumerProdut/cs.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="290">
+              <caret line="58" column="33" selection-start-line="58" selection-start-column="33" selection-end-line="58" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://D:/学习资料/java/尚硅谷20天java核心技术教程/尚硅谷_宋红康_JavaSEcode/尚硅谷_宋红康_JavaSEcode/day17/src/com/atguigu/java1/TestProduceConsume.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1083">
+              <caret line="59" column="20" selection-start-line="57" selection-start-column="12" selection-end-line="62" selection-end-column="13" />
+              <folding>
+                <element signature="e#1108#1109#0" expanded="true" />
+                <element signature="e#1133#1134#0" expanded="true" />
+                <element signature="e#1480#1481#0" expanded="true" />
+                <element signature="e#1505#1506#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -80,6 +127,16 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/ClientServerConnet/CS.java" />
+        <option value="$PROJECT_DIR$/src/ClientServerConnet/UDP.java" />
+        <option value="$PROJECT_DIR$/src/ClientServerConnet/CSconnet.java" />
+        <option value="$PROJECT_DIR$/1.txt" />
+        <option value="$PROJECT_DIR$/src/ClientServerConnet/cswordup.java" />
+        <option value="$PROJECT_DIR$/src/ThreadSecurity/account.java" />
+        <option value="$PROJECT_DIR$/src/ThreadSecurity/Account.java" />
+        <option value="$PROJECT_DIR$/src/ThreadSecurity/bankgetmoney.java" />
+        <option value="$PROJECT_DIR$/src/consumerProdut/product.java" />
+        <option value="$PROJECT_DIR$/src/consumerProdut/ConsumerProducer.java" />
+        <option value="$PROJECT_DIR$/src/consumerProdut/cs.java" />
       </list>
     </option>
   </component>
@@ -103,6 +160,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -121,11 +179,22 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="ClientServerConnet" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="ClienServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ClienServer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="consumerProdut" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ClienServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ClienServer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ThreadSecurity" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -134,10 +203,15 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540546138611" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540633602276" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\宋伟聪\IdeaProjects\ClienServer\src\ClientServerConnet" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -151,55 +225,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.CS.client (1)">
-    <configuration name="CS.server" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.cs">
+    <configuration name="bankgetmoney" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreadSecurity.bankgetmoney" />
       <module name="ClienServer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ClientServerConnet.*" />
+          <option name="PATTERN" value="ThreadSecurity.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ClientServerConnet" />
-      <option name="MAIN_CLASS_NAME" value="ClientServerConnet.CS" />
-      <option name="METHOD_NAME" value="server" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CS" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ClienServer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ClientServerConnet.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ClientServerConnet" />
-      <option name="MAIN_CLASS_NAME" value="ClientServerConnet.CS" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CS.client (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ClienServer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ClientServerConnet.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ClientServerConnet" />
-      <option name="MAIN_CLASS_NAME" value="ClientServerConnet.CS" />
-      <option name="METHOD_NAME" value="client" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CS.client" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="cs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.java1.cs" />
       <module name="ClienServer" />
       <extension name="coverage">
         <pattern>
@@ -207,15 +248,11 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ClientServerConnet" />
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.java1.CS" />
-      <option name="METHOD_NAME" value="client" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CS.server (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="cswordup.Client" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ClienServer" />
       <extension name="coverage">
         <pattern>
@@ -224,27 +261,59 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="ClientServerConnet" />
-      <option name="MAIN_CLASS_NAME" value="ClientServerConnet.CS" />
-      <option name="METHOD_NAME" value="server" />
+      <option name="MAIN_CLASS_NAME" value="ClientServerConnet.cswordup" />
+      <option name="METHOD_NAME" value="Client" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cswordup.Server" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ClienServer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ClientServerConnet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ClientServerConnet" />
+      <option name="MAIN_CLASS_NAME" value="ClientServerConnet.cswordup" />
+      <option name="METHOD_NAME" value="Server" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cswordup.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ClienServer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ClientServerConnet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ClientServerConnet" />
+      <option name="MAIN_CLASS_NAME" value="ClientServerConnet.cswordup" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.CS.client" />
-      <item itemvalue="JUnit.CS" />
-      <item itemvalue="JUnit.CS.server (1)" />
-      <item itemvalue="JUnit.CS.client (1)" />
-      <item itemvalue="Android JUnit.CS.server" />
+      <item itemvalue="JUnit.cswordup.Server" />
+      <item itemvalue="JUnit.cswordup.Client" />
+      <item itemvalue="JUnit.cswordup.test" />
+      <item itemvalue="Application.bankgetmoney" />
+      <item itemvalue="Application.cs" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.CS.client (1)" />
-        <item itemvalue="Android JUnit.CS.server" />
-        <item itemvalue="JUnit.CS.server (1)" />
-        <item itemvalue="JUnit.CS" />
-        <item itemvalue="JUnit.CS.client" />
+        <item itemvalue="Application.cs" />
+        <item itemvalue="Application.bankgetmoney" />
+        <item itemvalue="JUnit.cswordup.test" />
+        <item itemvalue="JUnit.cswordup.Client" />
+        <item itemvalue="JUnit.cswordup.Server" />
       </list>
     </recent_temporary>
   </component>
@@ -259,6 +328,10 @@
       <option name="presentableId" value="Default" />
       <updated>1540541571926</updated>
       <workItem from="1540541575576" duration="5140000" />
+      <workItem from="1540618695376" duration="57000" />
+      <workItem from="1540618936193" duration="8406000" />
+      <workItem from="1540628029608" duration="6149000" />
+      <workItem from="1540774728987" duration="33000" />
     </task>
     <task id="LOCAL-00001" summary="cs的commit">
       <created>1540546108867</created>
@@ -271,55 +344,50 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CS_Server - 2018.10.26 at 17h 15m 39s.xml">
-      <configuration name="CS.Server" configurationId="JUnit" />
+    <history-entry file="cswordup_Client - 2018.10.27 at 15h 32m 17s.xml">
+      <configuration name="cswordup.Client" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CS_server - 2018.10.26 at 17h 20m 57s.xml">
-      <configuration name="CS.server" configurationId="JUnit" />
+    <history-entry file="cswordup_Server - 2018.10.27 at 15h 32m 17s.xml">
+      <configuration name="cswordup.Server" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CS_client - 2018.10.26 at 17h 20m 57s.xml">
-      <configuration name="CS.client" configurationId="JUnit" />
+    <history-entry file="cswordup_Server - 2018.10.27 at 15h 37m 38s.xml">
+      <configuration name="cswordup.Server" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CS - 2018.10.26 at 17h 22m 05s.xml">
-      <configuration name="CS" configurationId="JUnit" />
+    <history-entry file="cswordup_Client - 2018.10.27 at 15h 37m 38s.xml">
+      <configuration name="cswordup.Client" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CS - 2018.10.26 at 17h 22m 57s.xml">
-      <configuration name="CS" configurationId="JUnit" />
+    <history-entry file="cswordup_Server - 2018.10.27 at 15h 42m 16s.xml">
+      <configuration name="cswordup.Server" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CS_server_(1) - 2018.10.26 at 17h 23m 10s.xml">
-      <configuration name="CS.server (1)" configurationId="JUnit" />
+    <history-entry file="cswordup_Client - 2018.10.27 at 15h 42m 16s.xml">
+      <configuration name="cswordup.Client" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CS_client_(1) - 2018.10.26 at 17h 23m 10s.xml">
-      <configuration name="CS.client (1)" configurationId="JUnit" />
+    <history-entry file="cswordup_Server - 2018.10.27 at 15h 42m 55s.xml">
+      <configuration name="cswordup.Server" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CS_client_(1) - 2018.10.26 at 17h 26m 50s.xml">
-      <configuration name="CS.client (1)" configurationId="JUnit" />
+    <history-entry file="cswordup_Client - 2018.10.27 at 15h 42m 55s.xml">
+      <configuration name="cswordup.Client" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CS_server - 2018.10.26 at 17h 27m 11s.xml">
-      <configuration name="CS.server" configurationId="AndroidJUnit" />
+    <history-entry file="cswordup_Server - 2018.10.27 at 15h 46m 12s.xml">
+      <configuration name="cswordup.Server" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CS_client_(1) - 2018.10.26 at 17h 27m 11s.xml">
-      <configuration name="CS.client (1)" configurationId="JUnit" />
+    <history-entry file="cswordup_Client - 2018.10.27 at 15h 46m 12s.xml">
+      <configuration name="cswordup.Client" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5140000" />
+    <option name="totallyTimeSpent" value="19785000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26340482" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" weight="0.32907802" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32907802" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32907802" />
@@ -327,15 +395,20 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32907802" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -384,19 +457,168 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1.jpg">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://D:/学习资料/java/尚硅谷20天java核心技术教程/尚硅谷_宋红康_JavaSEcode/尚硅谷_宋红康_JavaSEcode/day20/src/com/atguigu/java1/TestUDP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="40" column="19" lean-forward="true" selection-end-line="65" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ClientServerConnet/CS.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+        <state relative-caret-position="836">
+          <caret line="49" column="34" selection-start-line="49" selection-start-column="34" selection-end-line="49" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/学习资料/java/尚硅谷20天java核心技术教程/尚硅谷_宋红康_JavaSEcode/尚硅谷_宋红康_JavaSEcode/day20/src/com/atguigu/java1/TestURL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/学习资料/java/尚硅谷20天java核心技术教程/尚硅谷_宋红康_SE课件/尚硅谷_宋红康_JavaSE课件/尚硅谷_宋红康_第12章_Java常用类/GetFish.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="446">
+          <caret line="30" column="32" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/学习资料/java/尚硅谷20天java核心技术教程/尚硅谷_宋红康_JavaSEcode/尚硅谷_宋红康_JavaSEcode/day12/src/com/atguigu/java1/TestList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ClientServerConnet/UDP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/net/DatagramPacket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="118" column="11" selection-start-line="118" selection-start-column="11" selection-end-line="118" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ClientServerConnet/3.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ClientServerConnet/3.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ClientServerConnet/2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ClientServerConnet/2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ClientServerConnet/1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ClientServerConnet/1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ClientServerConnet/CSconnet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ClientServerConnet/cswordup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThreadSecurity/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="29" column="34" selection-start-line="29" selection-start-column="34" selection-end-line="29" selection-end-column="34" />
+          <folding>
+            <element signature="e#305#306#0" expanded="true" />
+            <element signature="e#338#339#0" expanded="true" />
+            <element signature="e#390#391#0" expanded="true" />
+            <element signature="e#434#435#0" expanded="true" />
+            <element signature="e#466#467#0" expanded="true" />
+            <element signature="e#494#495#0" expanded="true" />
+            <element signature="e#536#537#0" expanded="true" />
+            <element signature="e#570#571#0" expanded="true" />
+            <element signature="e#1112#1113#0" expanded="true" />
+            <element signature="e#1176#1177#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/consumerProdut/consumer.java" />
+    <entry file="file://$PROJECT_DIR$/src/consumerProdut/product.java" />
+    <entry file="file://$PROJECT_DIR$/src/ThreadSecurity/bankgetmoney.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/学习资料/java/尚硅谷20天java核心技术教程/尚硅谷_宋红康_JavaSEcode/尚硅谷_宋红康_JavaSEcode/day11/src/com/atguigu/java/TestProduct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="43">
+          <caret line="70" lean-forward="true" selection-start-line="70" selection-end-line="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/学习资料/java/尚硅谷20天java核心技术教程/尚硅谷_宋红康_SE课件/尚硅谷_宋红康_JavaSE课件/尚硅谷_宋红康_第11章_多线程/TestSync.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="54" lean-forward="true" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/consumerProdut/ConsumerProducer.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Runnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="55" column="26" selection-start-line="55" selection-start-column="26" selection-end-line="55" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/学习资料/java/尚硅谷20天java核心技术教程/尚硅谷_宋红康_JavaSEcode/尚硅谷_宋红康_JavaSEcode/day17/src/com/atguigu/java1/TestProduceConsume.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1083">
+          <caret line="59" column="20" selection-start-line="57" selection-start-column="12" selection-end-line="62" selection-end-column="13" />
+          <folding>
+            <element signature="e#1108#1109#0" expanded="true" />
+            <element signature="e#1133#1134#0" expanded="true" />
+            <element signature="e#1480#1481#0" expanded="true" />
+            <element signature="e#1505#1506#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/consumerProdut/cs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="58" column="33" selection-start-line="58" selection-start-column="33" selection-end-line="58" selection-end-column="33" />
         </state>
       </provider>
     </entry>
