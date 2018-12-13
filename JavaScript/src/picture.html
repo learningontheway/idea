@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>picture</title>
+    <style type="text/css">
+
+        *{
+            margin: 0;
+            padding: 0;
+        }
+
+        #outer{
+            width: 500px;
+            margin: 50px auto;
+            padding: 10px;
+            background-color: greenyellow;
+            /*设置文本居中*/
+            text-align: center;
+        }
+    </style>
+    
+    <script type="text/javascript">
+     window.onload=function () {
+         //获取两个button
+         var pre=document.getElementById("123");
+         var next=document.getElementById("456");
+         var img = document.getElementsByTagName("img")[0];
+         var array=["1.jpg","2.jpg","3.jpg","4.jpg","5.jpg"];
+         var index=0;
+         var info=document.getElementById("info");
+         info.innerHTML="总共"+array.length+"张图片，这是第"+(index+1)+"张图片"
+
+         pre.onclick=function () {
+             index--;
+             if(index<0)
+                 index=array.length-1;
+             img.src=array[index];
+             info.innerHTML="总共"+array.length+"张图片，这是第"+(index+1)+"张图片"
+         }
+         next.onclick=function(){
+             index++;
+             if(index>array.length-1)
+                 index=0;
+             img.src=array[index];
+             info.innerHTML="总共"+array.length+"张图片，这是第"+(index+1)+"张图片"
+         }
+
+     }
+    </script>
+</head>
+<body>
+        <div id="outer">
+            <p id="info"></p>
+        <img src="1.jpg" alter="图片">
+                    <button id="123" >《上一张</button>
+                    <button id="456" >下一张》</button>
+        </div>
+</body>
+</html>

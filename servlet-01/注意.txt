@@ -1,0 +1,1 @@
+idea和eclipse不一样，要从idea教程里面先创建相关的helloword的程序，然后再进一步编程，不要死在项目创建上
