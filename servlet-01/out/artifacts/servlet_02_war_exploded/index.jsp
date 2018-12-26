@@ -16,5 +16,8 @@
     password:<input type="password" name="password"/>
     <input type="submit" value="submit"/>
   </form>
+  <br><br>
+    <a href="LoginServlet">LoginServlet</a>
+  <br><br>
   </body>
 </html>
